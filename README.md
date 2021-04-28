@@ -4,3 +4,4 @@ Curso de CSS Flexbox da Origamid para aprender como criar um layout responsivo n
 <h2>
   <a href = "https://www.notion.so/Flex-Box-74db662d60f14f699bc4a39eb0a76f7c">Notion:clipboard:</a> sobre Flexbox
 </h2>
+<img src="https://github.com/alannapaiva/flexblog/blob/master/img-readme/flexbox_capa.jpeg">
